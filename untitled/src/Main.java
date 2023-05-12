@@ -1,3 +1,6 @@
+/**
+ * Driver class to test GeneralTree class.
+ */
 public class Main {
     public static void main(String[] args) {
         GeneralTree<String> root = new GeneralTree<>("Root");
