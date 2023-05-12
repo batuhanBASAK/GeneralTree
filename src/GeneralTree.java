@@ -1,5 +1,4 @@
 import java.util.LinkedList;
-import java.util.ListIterator;
 
 /**
  * General Tree implementation in java.
